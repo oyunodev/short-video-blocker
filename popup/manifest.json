@@ -3,6 +3,9 @@
     "description": "Bloqueador de vídeos curtos para você que não consegue ter autocontrole.",
     "version": "1.0",
     "manifest_version": 3,
+    "permissions": [
+      "activeTab"
+    ],
     "action": {
       "default_popup": "popup.html",
       "default_icon": "shortvb_icon.png"
