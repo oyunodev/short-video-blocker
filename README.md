@@ -1,3 +1,3 @@
 # short-video-blocker
- Bloqueador de vídeos curtos
+ Extensão bloqueadora de sites de vídeos curtos
  - Trabalhando ainda...
